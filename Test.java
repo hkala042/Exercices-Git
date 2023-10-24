@@ -25,6 +25,7 @@ public class Test{
 	//le getteur de key ( Ahmed)
 	
 	public int getKey(){
+		return key;
 	}
 	
 	
